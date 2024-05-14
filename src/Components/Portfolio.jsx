@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/cloud1.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "I am giving Cloud Computing workshop to other students";
 
 /**
  * Project list
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "How to host a Static Website on AMAZON SIMPLE STORAGE SERVICE (S3 BUCKET)🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a beginner friendly article to help explain How to host a Static Website on S3 BUCKET.",
+    url: "https://dev.to/safi-ullah/how-to-host-a-static-website-on-s3-3421",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Comprhensive Guide to Amazon Simple Storage Service (S3)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Some Key Features of AWS S3 and types of AWS S3.What financial effects come with utilizing AWS S3?",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "My Video About Top 3 AI  Tech influencer for Micrsoft Learn Student Ambassador program",
+    description: "In this Video I have shared my Top 3 AI tech Influencers",
+    url: "https://youtu.be/fKepaLvFZgg?si=Dou0bcCu2m7iXvBX",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Introduction to  Amazon Simple Storage Service (S3)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Video to explain What is AWS Simple Storage Service?.How it works?Benfits of S3.",
+    url: "https://youtu.be/2IaGGMzamJU",
   },
 ];
 
